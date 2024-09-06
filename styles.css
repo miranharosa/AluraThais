@@ -1,0 +1,25 @@
+.container__titulo {
+    font-size: 28px;
+    font-weight: 700;
+}.container__caixa {
+    margin: 0 6em;
+}.principal {
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+}  .descricao__texto {
+    color: var(--cinza-secundario);
+}.container__descricao {
+    padding: 2em;
+}.lista__item {
+    font-size: 32px;
+    color: var(--branco-principal);
+}.rodape {
+    text-align: center;
+    margin: 5em 3em;
+}.container__botao:hover {
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo);
+}
